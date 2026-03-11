@@ -160,7 +160,6 @@ on:
 **License Terms:**
 
 ✅ You may edit and modify this workflow  
-❌ No commercial use allowed  
 ❌ Do not claim this as your own work  
 
 <br>
